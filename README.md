@@ -20,11 +20,7 @@ Visualizations
 Bar Plot: Displays the average total sales for each customer segment, with separate bars for premium and non-premium customers.
 Pie Chart: Shows the sales distribution for the top-selling products.
 How to Use
-Clone this Repository:
 
-Run the following command to clone the repository:
-
-git clone https://github.com/your-username/customer-segmentation-sales-analysis.git
 Install Required Libraries:
 
 Ensure you have Python installed on your system.
@@ -34,14 +30,14 @@ pip install pandas numpy matplotlib seaborn
 Run the Analysis:
 
 Navigate to the folder containing the repository and run the analysis code:
+code.ipynb
 
-python analysis_code.py
 Purpose
 The primary objective of this analysis is to provide insights into:
 
-Which customer segments (based on life stage and premium membership status) are the most profitable.
+Which customer segments (based on life stage and premium membership status) are the most profitable?
 How the marketing team can target high-value customer groups.
-What products are driving the most revenue, allowing for better inventory and marketing decisions.
+What products are driving the most revenue, allowing for better inventory and marketing decisions?
 Potential Applications
 Targeted Marketing: Use insights from customer segments to craft targeted campaigns for the most profitable groups.
 Product Optimization: Focus on top-selling products and understand customer preferences to align marketing and sales strategies.
