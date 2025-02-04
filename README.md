@@ -23,13 +23,12 @@ How to Use
 
 Install Required Libraries:
 
-Ensure you have Python installed on your system.
-Install the necessary libraries by running:
+1) Ensure you have Python installed on your system.
 
-pip install pandas numpy matplotlib seaborn
-Run the Analysis:
+2) Install the necessary libraries by running: pip install pandas numpy matplotlib seaborn
 
-Navigate to the folder containing the repository and run the analysis code:
+Run the Analysis: Navigate to the folder containing the repository and run the analysis code:- 
+
 code.ipynb
 
 Purpose
